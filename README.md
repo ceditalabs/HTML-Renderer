@@ -1,4 +1,7 @@
-HTML Renderer [![Build status](https://ci.appveyor.com/api/projects/status/cm8xpf8ebt3hyi3e)](https://ci.appveyor.com/project/ArthurHub/html-renderer)
+** Port to .NET Standard 2.1 **
+
+
+HTML Renderer
 =============
 
 ## Help Wanted
